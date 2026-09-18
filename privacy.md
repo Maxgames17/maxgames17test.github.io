@@ -1,4 +1,4 @@
-Informativa sulla Privacy - Rclone Server Integration
+Informativa sulla Privacy - server backup
 
 Ultimo aggiornamento: 18/09/2026
 
