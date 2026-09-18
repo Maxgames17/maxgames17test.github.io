@@ -9,3 +9,7 @@ Funzionalità utilizzate:
     Accesso ai file di Google Drive unicamente per effettuare copie di sicurezza (backup) e ripristino di dati personali.
 
     Gestione automatizzata e temporizzata dello spazio di archiviazione remoto.
+
+Privacy e Sicurezza
+
+Nessun dato viene condiviso, venduto o inviato a terzi. Tutte le credenziali OAuth e i token di accesso rimangono archiviati esclusivamente all'interno del server privato dell'utente.
