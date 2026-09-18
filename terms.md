@@ -1,4 +1,4 @@
-Termini di Servizio - Rclone Server Integration
+Termini di Servizio - server backup
 
 Ultimo aggiornamento: 18/09/2026
 
