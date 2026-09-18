@@ -1,4 +1,4 @@
-Integrazione Personal Server Sync via Rclone
+Integrazione server backup
 
 Descrizione del Servizio
 
